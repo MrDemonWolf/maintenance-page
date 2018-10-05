@@ -1,8 +1,6 @@
-# [Express Blog](https://github.com/MrDemonWolf/maintenance-page)
+# [Maintenance Page](https://github.com/MrDemonWolf/maintenance-page)
 
 ## Preview
-
-[![Preview](https://github.com/MrDemonWolf/maintenance-page/blob/master/preview.png?raw=true)](https://mrdemonwolf.github.io/maintenance-page/)
 
 **[View Live Preview](https://mrdemonwolf.github.io/maintenance-page)**
 
