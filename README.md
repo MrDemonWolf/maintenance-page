@@ -7,8 +7,6 @@
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MrDemonWolf/maintenance-pager/master/LICENSE)
-[![dependencies Status](https://david-dm.org/MrDemonWolf/maintenance-page/status.svg)](https://david-dm.org/MrDemonWolf/maintenance-page)
-[![devDependencies Status](https://david-dm.org/MrDemonWolf/maintenance-page/dev-status.svg)](https://david-dm.org/MrDemonWolf/maintenance-page?type=dev)
 
 ## Download and Installation
 
@@ -22,7 +20,7 @@ To begin using this template, choose one of the following options to get started
 $ npm start
 ```
 
-And edit index.html
+And edit index.html if needed.
 
 ## Custom Builds
 
