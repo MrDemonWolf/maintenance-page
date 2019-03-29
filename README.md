@@ -1,18 +1,18 @@
-# [Maintenance Page](https://github.com/MrDemonWolf/maintenance-page)
+# [Maintenance Page](https://github.com/nathanhenniges/maintenance-page)
 
 ## Preview
 
-**[View Live Preview](https://mrdemonwolf.github.io/maintenance-page)**
+**[View Live Preview](https://nathanhenniges.github.io/maintenance-page)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MrDemonWolf/maintenance-pager/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nathanhenniges/maintenance-pager/master/LICENSE)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* Clone the repo: `git clone https://github.com/MrDemonWolf/maintenance-page.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/MrDemonWolf/maintenance-page)
+* Clone the repo: `git clone https://github.com/nathanhenniges/maintenance-page.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/nathanhenniges/maintenance-page)
 
 ### Basic Usage
 
@@ -32,8 +32,8 @@ Am a Web Developer & Designer who has a passion for creating unique user experie
 
 * https://www.mrdemonwolf.me
 * https://twitter.com/mrdemonwolf
-* https://github.com/mrdemonwolf
+* https://github.com/nathanhenniges
 
 ## Copyright and License
 
-Copyright 2018 MrDemonWolf. Code released under the [MIT](https://github.com/MrDemonWolf/maintenance-page/blob/master/LICENSE.md) license.
+Copyright 2018 Nathan Henniges. Code released under the [MIT](https://github.com/nathanhenniges/maintenance-page/blob/master/LICENSE.md) license.
